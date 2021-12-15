@@ -1,0 +1,15 @@
+{
+  "name": "cyber-cell",
+  "version": "1.0.0",
+  "description": "vanilla javascript coding challenge - array methods",
+  "main": "src/index.js",
+  "repository": "https://github.com/javascript4breakfast/cyber-cell.git",
+  "author": "joortiz",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
